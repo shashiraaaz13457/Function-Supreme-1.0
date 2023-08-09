@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//Function example by Babbar.
 int getSum(int a,int b){
     int result = a + b;
     return result;
