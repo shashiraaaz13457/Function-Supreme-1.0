@@ -13,7 +13,7 @@ void printName(){
 
 }
 
-//Pass by value concept(Copy create hoti h input parameters ki)
+//Pass by value concept(Copy create hoti h input parameters kii)
 void printNumber(int a){
     cout<< a <<endl;
 }
