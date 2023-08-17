@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//Doubt in first attempt.
+//Doubt in first attempt..
 
 int DecimalToBinaryMethod1(int n){
     //Division Method
