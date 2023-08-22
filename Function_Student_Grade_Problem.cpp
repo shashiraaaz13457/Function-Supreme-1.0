@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//1st method..
+//1st method.
 // void getGrade(int marks){
 //     if (marks >= 90)
 //     {
