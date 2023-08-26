@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//Checking..
+//Checking
 int main(){
     double a = 9;
     double b = 4;
