@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//Revision of babbar..
+//Revision of babbar
 
 int main(){
     int num ;
